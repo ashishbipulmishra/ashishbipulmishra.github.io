@@ -1,5 +1,5 @@
 /**
-* Developed By: Ashish Mishra and Team 
+* Developed By: Ashish Mishra
 */
 
 /*--------------------------------------------------------------
@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #47b2e4;
+  background: #000000;
 }
 
 #hero .btn-get-started:hover {
